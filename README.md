@@ -3,7 +3,7 @@
 The dataset includes 246 food products from Australian retailers in 2025. Each record contains about 20 variables covering nutrients, metadata, and Health Star Ratings (HSR). It enables analysis of nutritional quality and labeling diversity while following FAIR principles for accessibility and reusability.
 
 - **Nutrient Composition:** Energy (kJ and kcal), protein, total fat, saturated fat, carbohydrates, sugars, fiber, and sodium (per 100 g).  
-- **Metadata:** Product name, brand, product type, category, serving size, package weight, country of origin, retailer, date collected, allergens, ingredients, and data source.  
+- **Metadata:** Product name, product type, category, country of origin, retailer, date collected, allergens, ingredients, and data source.  
 - **Health Star Rating (HSR):** A score from 0.5 to 5 stars, representing overall nutritional quality.
 
 The dataset is structured to support analysis of nutritional quality, HSR modeling, and food labeling research.
@@ -35,4 +35,4 @@ The dataset follows the FAIR principles:
 - **Reusable:** Complete metadata, data dictionaries, and documentation support reproducibility and further research.
 
 ## Contact
-For questions or feedback, please contact: [Your Name / Email]
+For questions or feedback, please contact: [Valentin Lafargue/valentin.lafargue@math.univ-toulouse.fr]
