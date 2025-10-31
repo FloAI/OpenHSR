@@ -25,7 +25,7 @@ This dataset is licensed under the [Creative Commons Attribution 4.0 Internation
 ## Citation
 If you use this dataset, please cite:
 
-> Author(s), 2025. Health Star Rating (HSR) Dataset - Australian Packaged Foods 2025. GitHub repository. [DOI or URL if available]
+> N'kam Suguem, F., & Lafargue, V. (2025). Open Health Star Rating (OpenHSR) (Version v1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.17469191
 
 ## FAIR Principles
 The dataset follows the FAIR principles:  
